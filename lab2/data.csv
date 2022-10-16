@@ -1,8 +1,4 @@
-﻿movie id;movie year;movie tittle;actor id;actor firstname;actor lastname;director firstname;director lastname
-4134;1995;Хакеры;14843;Джонни;Миллер;Иэн;Софтли
-;;;20866;Анджелина;Джоли;;
-6132;1995;Сеть;6542;Сандра;Буллок;Ирвин;Уинклер
-3800;1995;Джонни Мнемоник;7836;Киану;Ривз;Роберт;Лонго
-;;;56697;Такеши;Китано;;
-;;;4768;Дольф;Лундгрен;;
-276598;2011;Драйв;0;Райан;Гослинг;Райан;Гослинг
+﻿id,year,title,actors/actor/0/id,actors/actor/0/firstname,actors/actor/0/lastname,actors/actor/1/id,actors/actor/1/firstname,actors/actor/1/lastname,director/firstname,director/lastname,actors/actor/2/id,actors/actor/2/firstname,actors/actor/2/lastname
+4134,1995,Хакеры,14843,Джонни,Миллер,20866,Анджелина,Джоли,Иэн,Софтли,,,
+6132,1995,Сеть,6542,Сандра,Буллок,,,,Ирвин,Уинклер,,,
+3800,1995,Джонни Мнемоник,7836,Киану,Ривз,56697,Такеши,Китано,Роберт,Лонго,4768,Дольф,Лундгрен
